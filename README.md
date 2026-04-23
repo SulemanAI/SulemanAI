@@ -9,9 +9,9 @@ I enjoy turning complex ideas into reliable products and continuously improving 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-8ykvj45ou.vercel.app/api?username=SulemanAI&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-8ykvj45ou.vercel.app/api?username=SulemanAI&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=0" height="165"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-8ykvj45ou.vercel.app/api/top-langs/?username=SulemanAI&layout=compact&theme=tokyonight&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-8ykvj45ou.vercel.app/api/top-langs/?username=SulemanAI&layout=compact&theme=tokyonight&count_private=true&cache_seconds=0" height="165"/>
 </p>
 
 <p align="center">
